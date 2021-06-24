@@ -1,0 +1,6 @@
+.footer{
+    width: 100%;
+    height: 5rem;
+    background-color: cyan;
+    display: flex;    
+}
